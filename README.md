@@ -1,7 +1,7 @@
 # swde
 A small script to set animated wallpapers using the windows api.
 
-### Note: The script isn't that performant in higher resolutions and should only be used in test scenarios.
+### Note: The script isn't that performant in higher resolutions and should only be used in test scenarios. When it didn't work try to turn the fps down.
 
 ## Usage
 * 1.) ```Setup the directory 'C:\swde'```
