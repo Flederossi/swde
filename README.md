@@ -4,7 +4,7 @@ A small script to set animated wallpapers using the windows api.
 ### Note: The script isn't that performant in higher resolutions and should only be used in test scenarios. When it doesn't work try to turn the fps down.
 
 ## Showcase
-![Alt Text](https://drive.google.com/file/d/1VxLwVswyyqURrQkY-KprmM1Dwa15-qg4/view?usp=sharing)
+![Alt Text](https://github.com/Flederossi/swde/blob/main/animation.gif)
 
 ## Usage
 * 1.) ```Setup the directory 'C:\swde'```
