@@ -1,7 +1,7 @@
 # swde
 A small script to set animated wallpapers using the windows api.
 
-### Note: The script isn't that performant in higher resolutions and should only be used in test scenarios. When it doesn't work try to turn the fps down.
+### Note: The script isn't that performant in higher resolutions and should only be used in test scenarios. When it doesn't work with your video try to turn the fps down.
 
 ## Showcase
 ![Alt Text](https://github.com/Flederossi/swde/blob/main/animation.gif)
