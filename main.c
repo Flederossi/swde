@@ -2,7 +2,6 @@
 #include <stdio.h>
 #include <dirent.h>
 
-// Max -> 10
 #define FPS 10
 
 void startBackgroundProcess(int vis){
