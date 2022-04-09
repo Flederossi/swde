@@ -15,7 +15,6 @@ A small script to set animated wallpapers using the windows api.
 * ```3.) Copy the generated image files into 'C:\swde'```
 * ```4.) Run the swde.exe file from anywhere```
 #### Your animation should start as a background process.
-#### Note: Better usage of the script in progress.
 
 ## Example
 * ```You can try the script with the preconfigured frames in the example folder.```
