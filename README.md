@@ -17,4 +17,4 @@ A small script to set animated wallpapers using the windows api.
 * ```You can try the script with the preconfigured frames in the example folder.```
 
 ## Stop the script
-* ```The script starts as a background process so you have to stop ist via task manager.```
+* ```The script starts as a background process so you have to stop it via task manager.```
