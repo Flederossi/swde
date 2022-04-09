@@ -7,11 +7,10 @@ A small script to set animated wallpapers using the windows api.
 ![Alt Text](https://github.com/Flederossi/swde/blob/main/animation.gif)
 
 ## Usage
-* ```1.)  Setup the directory 'C:\swde'```
-* ```2.)  Put your frames in alphabetical order in it```
-* ```2.1) If you run out of letters continue like 'ZA, ZB, ...'```
-* ##### Python script to create the frames from a video still under development.
-* ```3.)  Run the script from anywhere```
+* ```1.) Setup the directory 'C:\swde'```
+* ```2.) Run convert.py with your video path as argument```
+* ```3.) Copy the generated image files into 'C:\swde'```
+* ```3.) Run the main.c script from anywhere```
 #### Your animation should start as background.
 
 ## Example
